@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="agenda-salao-rosa-estetica:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/agenda_salao_rosa_estetica_jar</output-path>
+    <root id="archive" name="agenda-salao-rosa-estetica.jar">
+      <element id="module-output" name="agenda-salao-rosa-estetica" />
+    </root>
+  </artifact>
+</component>
